@@ -7,10 +7,10 @@
       "dom",
       "es2015"
     ],
-    "module": "es2015",
+    "module": "es2020",
     "moduleResolution": "node",
     "noFallthroughCasesInSwitch": true,
-    "outDir": "dist/esm",
+    "outDir": "dist",
     "pretty": true,
     "sourceMap": true,
     "strict": true,

@@ -227,8 +227,3 @@ export class XRPluginWeb extends WebPlugin implements XRPluginPlugin {
   }
 }
 
-const XRPlugin = new XRPluginWeb();
-registerWebPlugin(XRPlugin);
-
-export { XRPlugin };
-
